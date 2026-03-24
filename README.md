@@ -17,7 +17,6 @@ This project investigates how human transcription factors (TFs) bind across the 
 - `metadata/` – Contains strain sequence information and data from additional completed analyses
 - `sumproms/` – Promoter-level ChEC-seq binding scores of human TFs across the yeast genome
 - `prom_signals/` – Nucleotide-level ChEC-seq binding scores of human TFs across yeast promoters
-- `binding_score_at_motifs/` – Binding scores of human TFs at each motif occurence in the yeast genome
 
 ## Contact
 
