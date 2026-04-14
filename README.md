@@ -2,7 +2,7 @@
 
 This repository contains the analysis code and supporting files for the study:
 
-**Binding of human transcription factors across the evolutionarily distant budding-yeast genome: Specific binding directed by the disordered regions outside DNA binding domains.**  
+**Beyond motif recognition: Specificity of human transcription factors in yeast**  
 Joshua Bugis, Dan Reuben Zlotnik-Weinberg, Wajd Manadre, Vladimir Mindel, Yunwei Lu, Juan Ignacio Fuxman Bass, Naama Barkai
 
 All scripts are organized to allow reproduction of the main analyses and figures from the paper.  
